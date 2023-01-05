@@ -5,9 +5,10 @@
 
 [老杜Servlet-JSP笔记](/Note/Servlet-JSP.md)             
 [老杜AJAX笔记](/Note/AJAX.md)            
-[尚硅谷Maven笔记](http://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/)          
-[尚硅谷git笔记](/Note/Git.pdf)    
-[老杜Spring6笔记](https://www.yuque.com/dujubin/ltckqu/kipzgd?) 密码：mg9b
+[尚硅谷Maven笔记](http://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/)            
+[尚硅谷git笔记](/Note/Git.pdf)      
+[老杜MyBatis笔记](https://www.yuque.com/dujubin/ltckqu/pozck9?) 密码：rs4n         
+[老杜Spring6笔记](https://www.yuque.com/dujubin/ltckqu/kipzgd?) 密码：mg9b       
 
 
 #### 声明
